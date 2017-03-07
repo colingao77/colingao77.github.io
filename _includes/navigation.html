@@ -7,3 +7,13 @@
 				</li>
 			{% endfor %}
 		</ul> 
+
+		<ul class="nav navbar-nav navbar-right">
+			{% for cat in site.all_pages %}
+				<li>
+				  <a href="{{cat[2]}}">
+					{{cat[1]}}
+				  </a>
+				</li>
+			{% endfor %}
+    	</ul>
