@@ -1,30 +1,32 @@
-markdown: kramdown
+# markdown: kramdown
 highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "潘学文"
-email: winfirm#163.com
-name: "潘学文个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+github: colingao77
+author: "Colin Gao"
+email: glct#163.com
+name: "Colin's Blog"
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+
 all_categories: [
 ["linux", "Linux","/posts/linux.html"],
-["read", "读书","/posts/read.html"], 
-["favorite", "收藏","/posts/favorite.html"],
+["read", "Reading","/posts/read.html"], 
+["bookmark", "Bookmark","/posts/bookmark.html"],
 ["fun", "Fun","/posts/fun.html"],
 ]
 
 all_pages: [
-["archive", "存档","/archives.html"],
+["archive", "Archive","/archives.html"],
 ["about", "FAQ","/faqs.html"],
-["about", "关于","/about.html"]
+["about", "About","/about.html"]
 ]
 
 paginate: 8
 paginate_path: "posts/page:num"
 timezone: America/Los_Angeles
+future: true
 
 collections:
   docs:
