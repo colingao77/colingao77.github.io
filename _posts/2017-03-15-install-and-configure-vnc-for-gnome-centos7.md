@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "bookmark"
-title:  "How To Install and Configure VNC Remote Access for the GNOME Desktop on CentOS 7"
+title:  "Install VNC for the GNOME on CentOS 7"
 tags: [Linux, VNC, GNOME, CentOS]
 ---
 
