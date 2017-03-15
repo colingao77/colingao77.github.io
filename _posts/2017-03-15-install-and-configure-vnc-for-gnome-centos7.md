@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "bookmark"
+category: "linux"
 title:  "Install VNC for the GNOME on CentOS 7"
 tags: [Linux, VNC, GNOME, CentOS]
 ---

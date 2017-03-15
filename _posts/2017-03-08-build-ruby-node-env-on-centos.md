@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "bookmark"
+category: "linux"
 title:  "Build Ruby & Node Environment on CentOS 7"
 tags: [Linux, Ruby, Node, CentOS]
 ---
