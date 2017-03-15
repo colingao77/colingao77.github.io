@@ -6,7 +6,7 @@ tags: [技术, 站点]
 ---
 ### Linux
 ##### 1. [Configure VNC for the GNOME Desktop on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-remote-access-for-the-gnome-desktop-on-centos-7)
-##### 2. [Update YUM repo in RHEL7 in China](http://gpdb.rocks/rhel/yum/repo/2016/03/01/config-rhel7-yum-repo.html)
+##### 2. [Set Locale on CentOS7](https://www.rosehosting.com/blog/how-to-set-up-system-locale-on-centos-7/)
 ---
 ### Jekyll
 ##### 1. [Jekyll Tips](http://jekyll.tips/)
