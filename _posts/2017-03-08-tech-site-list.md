@@ -12,6 +12,8 @@ tags: [技术, 站点]
 ##### 5. [Index of /pub/epel/7/x86_64](https://dl.fedoraproject.org/pub/epel/)
 ##### 6. [Linux Packages Repositories](https://pkgs.org/)
 ##### 7. [Install xclip on Linux](http://ask.xmodulo.com/copy-file-content-clipboard-linux-desktop.html)
+##### 8. [Proxy Setting](https://wiki.archlinux.org/index.php/proxy_settings#Using_a_SOCKS_proxy)
+
 ---
 ### Jekyll
 ##### 1. [Jekyll Tips](http://jekyll.tips/)
