@@ -13,6 +13,8 @@ tags: [技术, 站点]
 ##### 6. [Linux Packages Repositories](https://pkgs.org/)
 ##### 7. [Install xclip on Linux](http://ask.xmodulo.com/copy-file-content-clipboard-linux-desktop.html)
 ##### 8. [Proxy Setting](https://wiki.archlinux.org/index.php/proxy_settings#Using_a_SOCKS_proxy)
+##### 9. [Proxy Chain](http://shawnelee88.github.io/2015/07/10/proxychains-shadowsocks%E7%A5%9E%E5%99%A8/)
+##### 10. [Proxy Chain 2](https://github.com/shadowsocks/shadowsocks/wiki/Using-Shadowsocks-with-Command-Line-Tools)
 
 ---
 ### Jekyll
