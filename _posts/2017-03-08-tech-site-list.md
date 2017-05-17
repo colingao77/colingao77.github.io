@@ -6,6 +6,8 @@ tags: [技术, 站点]
 ---
 ### Linux
 
+- [Linux Commands](http://www.runoob.com/linux/linux-command-manual.html)
+- [Linux Tools Quick Tutorial](http://linuxtools-rst.readthedocs.org/zh_CN/latest/)
 - [Configure VNC for the GNOME Desktop on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-remote-access-for-the-gnome-desktop-on-centos-7)
 - [Set Locale on CentOS7](https://www.rosehosting.com/blog/how-to-set-up-system-locale-on-centos-7/)
 - [How to Enable EPEL Repository on CentOS7](http://www.tecmint.com/how-to-enable-epel-repository-for-rhel-centos-6-5/)
